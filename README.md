@@ -26,3 +26,4 @@ Open `SMS_Spam_SVM_Improved.ipynb` in Google Colab → Runtime → Run all → u
 
 ## Files
 - `SMS_Spam_SVM_Improved.ipynb` – full analysis with outputs
+- AUthor **FH Mimi**
